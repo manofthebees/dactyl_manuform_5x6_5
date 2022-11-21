@@ -10,3 +10,8 @@ BOOTLOADER = caterina
 NKRO_ENABLE = yes           # Enable N-Key Rollover
 SPLIT_KEYBOARD = yes
 EXTRAKEY_ENABLE = yes
+
+POINTING_DEVICE_ENABLE = yes
+POINTING_DEVICE_DRIVER = analog_joystick
+MOUSEKEY_ENABLE = yes
+
